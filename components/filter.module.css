@@ -1,0 +1,17 @@
+.filter-btn {
+	padding: 6px 12px;
+	color: white;
+    background-color: black;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 125%;
+	border-radius: 1000px;
+	cursor: pointer;
+	text-transform: uppercase;
+}
+.check {
+	background-color: white;
+	color: black;
+    border: 1px solid black;
+    border-radius: 100px;
+}

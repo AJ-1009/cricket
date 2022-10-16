@@ -14,7 +14,12 @@ a {
 * {
   box-sizing: border-box;
 }
-
+.season , .category{
+  display: flex;
+  margin-top: 30px;
+  gap: 10px;
+  flex-wrap: wrap;
+}
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;
